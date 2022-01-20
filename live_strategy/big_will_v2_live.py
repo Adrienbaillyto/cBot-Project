@@ -39,7 +39,6 @@ pairList = [
     'GRT/USD',
     'AAVE/USD',
     'OMG/USD',
-    'SUSHI/USD',
     'MANA/USD',
     'SRM/USD',
     'RUNE/USD',
